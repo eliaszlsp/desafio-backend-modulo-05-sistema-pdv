@@ -1,0 +1,23 @@
+# Arquivos de log
+logs/
+
+# Arquivos de configuração locais
+config.js
+.env
+
+# Módulos Node.js
+node_modules/
+
+# Arquivos de build
+dist/
+build/
+
+# Arquivos de ambiente
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Arquivos de dependência de desenvolvimento
+package-lock.json
+yarn.lock
