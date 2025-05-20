@@ -1,3 +1,4 @@
+
 # Sistema-PDV
 ## Descrição
 Este projeto é uma API para um sistema PDV  que oferece as seguintes funcionalidades:
@@ -38,6 +39,7 @@ Rotas<br/>
 - [Nodemailer](https://nodemailer.com/)
 - [Nodemon](https://nodemon.io/)
 - [pg](https://www.npmjs.com/package/pg)
+- [docker](https://www.docker.com/get-started/)
 ## Instalação
 1. Clone o repositório:
     ```bash
